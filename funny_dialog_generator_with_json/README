@@ -1,0 +1,4 @@
+#funny_quote_generator avec données stocké dans un fichier JSON
+
+La liste des citations et celle des personnages sont stockées dans leur ficher JSON respectif.
+JSON est le formattout indiqué puisqu'il s'agit uniquement de texte.
