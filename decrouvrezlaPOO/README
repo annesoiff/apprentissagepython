@@ -3,3 +3,23 @@
 Grâce à la programmation orientée objet, nous allons réaliser ensemble un monde virtuel peuplé d'humains, qui nous servira de terrain d'expérimentation pour vérifier notre théorie !
 
 Cela nous permettra au passage de découvrir l'univers fabuleux de la programmation orientée objet (POO). Nous verrons ce qu'est un diagramme de classe (il sera essentiel dans la conception de notre programme !), puis nous coderons le programme en lui-même avec Python. Nous découvrirons les classes, les attributs, l’héritage et plein d’autres concepts réjouissants !
+
+# Fonctionnalités du programme
+Comment notre programme va-t-il nous aider à répondre à nos interrogations ? Voici les étapes qu'il devra suivre :
+- Il ouvre un fichier JSON qui contient 100 000 agents,
+- Il réalise des calculs,
+- Il affiche un premier graphique affichant le degré d'agréabilité en fonction de la densité de population
+- Quand je ferme ce graphique, un second apparaît avec les revenus moyens en fonction de l’âge.
+
+# Etapes
+Nous allons réaliser ce programme en plusieurs étapes :
+- Découverte de la Programmation Orientée Objet
+- Dessin d'un diagramme de classe
+- Transformation des agents JSON en agents que nous pourrons réutiliser.
+- Agents : ajout des attributs (chaque agent a plusieurs "propriétés" : agréabilité, revenu, ...)
+- Création de la grille qui nous permettra de situer les personnages dans le monde.
+- Création des zones composant cette grille.
+- Ajout du premier habitant dans sa zone.
+- Peuplement du monde avec les 100 000 agents.
+- Création du graphique Agréabilité versus densité de population.
+- Création du graphique Revenu versus âge
